@@ -31,5 +31,4 @@ The project features a sticky navbar for easy navigation, beautifully styled sec
 
 ## Special Thanks
 
-A special thanks to [freeCodeCamp](https://www.freecodecamp.org/) for inspiring this project and providing the resources necessary to learn web development and complete this certification. Their educational materials have been invaluable in helping me build this project. 🙏
-
+This project was created as part of a certification from [freeCodeCamp](https://www.freecodecamp.org/). The resources and challenges provided by freeCodeCamp played a significant role in helping me learn web development and successfully complete this project. 🙏
